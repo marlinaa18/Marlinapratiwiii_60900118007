@@ -42,5 +42,9 @@ body{
     background-color: burlywood;
     text-align: center;
     color: white;  
+    
+}
 
+#profile-job{
+    text-align: center;
 }
